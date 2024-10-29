@@ -1,3 +1,3 @@
 # news-article-scraper-comparison
 
-This is a new project.
+This project will be updated in a weekly base.
